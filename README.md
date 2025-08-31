@@ -22,8 +22,8 @@ When a person wears a cloak of a specific color (e.g., red/green/blue), the prog
 
 ### 🛠 Tech Stack
 
-Python
-OpenCV (cv2)
+Python,
+OpenCV (cv2),
 NumPy
 
 ### ⚡ Features
